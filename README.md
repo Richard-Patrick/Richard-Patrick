@@ -1,4 +1,4 @@
-<h2> Hi, I'm Richard Patrick <img src="" width="50"></h2>
+<h2> Hi, I'm Richard Patrick </h2>
 
 
 
