@@ -12,7 +12,7 @@
 # :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 🔨 I am Data scientist and programmer<br/>
 🎯My focus is towards  Machine learning, system intelligence and Simulation<br/>
-🎓 Studied Masters of Computer Science and Application<br/>
+🎓 Studied MSc in data science and Masters of Computer Science and Application<br/>
 
 # Languages & Tools :
 
