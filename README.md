@@ -10,7 +10,7 @@
 <br />
 
 # :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-🔨 I am algorithmist and programmer<br/>
+🔨 I am Data scientist and programmer<br/>
 🎯My focus is towards  Machine learning, system intelligence and Simulation<br/>
 🎓 Studied Masters of Computer Science and Application<br/>
 
